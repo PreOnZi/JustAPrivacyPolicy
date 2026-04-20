@@ -1,80 +1,142 @@
-# Privacy Policy for Just A Calculator
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Just A Calculator</title>
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #1a1a1a;
+            color: #e0e0e0;
+        }
+        h1 {
+            color: #4fc3f7;
+            border-bottom: 2px solid #4fc3f7;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #81d4fa;
+            margin-top: 30px;
+        }
+        h3 {
+            color: #b3e5fc;
+        }
+        strong {
+            color: #fff;
+        }
+        a {
+            color: #4fc3f7;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        li {
+            margin: 8px 0;
+        }
+        .last-updated {
+            color: #888;
+            font-style: italic;
+        }
+        hr {
+            border: none;
+            border-top: 1px solid #333;
+            margin: 30px 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy for Just A Calculator <b style="color: red;">113</b></h1>
+    <p class="last-updated"><strong>Last updated:</strong> 20th April, 2026</p>
 
-**Last updated: January 28, 2026**
+    <h2>Introduction</h2>
+    <p>This Privacy Policy describes how FictionCutShort ("we", "us", or "our") handles information when you use our mobile application Just A Calculator ("the App"). We are committed to protecting your privacy and being transparent about our practices.</p>
 
-## Introduction
+    <h2>Information We Do NOT Collect</h2>
+    <p><strong>Just A Calculator does not collect, store, transmit, or share any personal data.</strong> All app functionality operates entirely on your device. We do not have servers that receive your data, and we do not use any analytics or tracking services.</p>
 
-This Privacy Policy describes how Just A Calculator ("we", "us", or "our") handles information when you use our mobile application ("the App"). We are committed to protecting your privacy and being transparent about our practices.
+    <h2>Permissions We Request</h2>
+    <p>The App requests certain device permissions to enable interactive features within the app experience. <strong>All data accessed through these permissions remains on your device and is never transmitted elsewhere.</strong></p>
 
-## Information We Do NOT Collect
+    <h3>Camera Permission</h3>
+    <ul>
+        <li><strong>Purpose:</strong> Used for an in-app visual effect feature</li>
+        <li><strong>Data handling:</strong> Camera preview is displayed on-screen; photos captured are merely for entertainment purposes and stored on-device. The user can easily delete them. No photos or videos are transmitted anywhere.</li>
+    </ul>
 
-**Just A Calculator does not collect, store, transmit, or share any personal data.** All app functionality operates entirely on your device. We do not have servers that receive your data, and we do not use any analytics or tracking services.
+    <h3>Microphone Permission (RECORD_AUDIO)</h3>
+    <ul>
+        <li><strong>Purpose:</strong> Used for an interactive audio feature within the app</li>
+        <li><strong>Data handling:</strong> Audio is processed locally in real-time for visual/audio effects only; no recordings are transmitted.</li>
+    </ul>
 
-## Permissions We Request
+    <h3>Location Permission</h3>
+    <ul>
+        <li><strong>Purpose:</strong> Used for a narrative feature within the app experience</li>
+        <li><strong>Data handling:</strong> Location data is used momentarily for display purposes only; it is not stored, logged, or transmitted</li>
+    </ul>
 
-The App requests certain device permissions to enable interactive features within the app experience. **All data accessed through these permissions remains on your device and is never transmitted elsewhere.**
+    <h3>Contacts Permission</h3>
+    <ul>
+        <li><strong>Purpose:</strong> Used for a narrative feature within the app experience</li>
+        <li><strong>Data handling:</strong> Contact information is accessed momentarily for display purposes only; no contact data is stored, copied, or transmitted</li>
+    </ul>
 
-### Camera Permission
-- **Purpose:** Used for an in-app visual effect feature
-- **Data handling:** Camera preview is displayed on-screen only; no photos or videos are captured, saved, or transmitted
+    <h3>Internet Permission</h3>
+    <ul>
+        <li><strong>Purpose:</strong> Used to display web content within the app as part of the interactive experience</li>
+        <li><strong>Data handling:</strong> Standard web browsing within the app; we do not track or log your browsing activity</li>
+    </ul>
 
-### Microphone Permission (RECORD_AUDIO)
-- **Purpose:** Used for an interactive audio feature within the app
-- **Data handling:** Audio is processed locally in real-time for visual/audio effects only; no recordings are saved or transmitted
+    <h3>Vibration Permission</h3>
+    <ul>
+        <li><strong>Purpose:</strong> Provides haptic feedback for certain app interactions</li>
+        <li><strong>Data handling:</strong> No data is collected</li>
+    </ul>
 
-### Location Permission (ACCESS_FINE_LOCATION, ACCESS_COARSE_LOCATION)
-- **Purpose:** Used for a narrative feature within the app experience
-- **Data handling:** Location data is used momentarily for display purposes only; it is not stored, logged, or transmitted
+    <h3>Notification Permission</h3>
+    <ul>
+        <li><strong>Purpose:</strong> Allows the app to send local notifications as part of the app experience - integral to the story</li>
+        <li><strong>Data handling:</strong> Notifications are generated locally; no data is transmitted</li>
+    </ul>
 
-### Contacts Permission (READ_CONTACTS)
-- **Purpose:** Used for a narrative feature within the app experience
-- **Data handling:** Contact information is accessed momentarily for display purposes only; no contact data is stored, copied, or transmitted
 
-### Internet Permission
-- **Purpose:** Used to display web content within the app as part of the interactive experience
-- **Data handling:** Standard web browsing within the app; we do not track or log your browsing activity
+    <h2>Data Storage</h2>
+    <p>Any app preferences or progress data is stored locally on your device using standard Android storage mechanisms. This data:</p>
+    <ul>
+        <li>Never leaves your device</li>
+        <li>Is not accessible to us or any third parties</li>
+        <li>Can be deleted by uninstalling the app or clearing app data</li>
+    </ul>
 
-### Vibration Permission
-- **Purpose:** Provides haptic feedback for certain app interactions
-- **Data handling:** No data is collected
+    <h2>Third-Party Services</h2>
+    <p>Just A Calculator does not integrate any third-party analytics, advertising, or tracking services. We do not share any information with third parties because we do not collect any information.</p>
 
-### Notification Permission
-- **Purpose:** Allows the app to send local notifications as part of the app experience
-- **Data handling:** Notifications are generated locally; no data is transmitted
+    <h2>Children's Privacy</h2>
+    <p>Our App does not knowingly collect any personal information from anyone, including children under 13. Since we do not collect data, we comply with the Children's Online Privacy Protection Act (COPPA) and similar regulations. Although the game is intended for mature audiences.</p>
 
-### Exact Alarm Permission
-- **Purpose:** Enables scheduled local notifications
-- **Data handling:** Alarm data is stored locally on your device only
+    <h2>Changes to This Privacy Policy</h2>
+    <p>We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last updated" date.</p>
 
-## Data Storage
+    <h2>Your Rights</h2>
+    <p>Since we do not collect any personal data, there is no personal data to access, modify, or delete. You can remove all locally stored app data at any time by uninstalling the app or clearing the app's data through your device settings.</p>
 
-Any app preferences or progress data is stored locally on your device using standard Android storage mechanisms. This data:
-- Never leaves your device
-- Is not accessible to us or any third parties
-- Can be deleted by uninstalling the app or clearing app data
+   <h2>Contact Us</h2>
+<p>If you have any questions about this Privacy Policy, please contact us:</p>
+<ul>
+    <li><strong>Email:</strong> <a href="mailto:fictioncutshort@gmail.com">fictioncutshort@gmail.com</a></li>
+    <li><strong>GitHub:</strong> <a href="https://github.com/fictioncutshort/JustAPrivacyPolicy">github.com/fictioncutshort/JustAPrivacyPolicy</a></li>
+</ul>
 
-## Third-Party Services
 
-Just A Calculator does not integrate any third-party analytics, advertising, or tracking services. We do not share any information with third parties because we do not collect any information.
-
-## Children's Privacy
-
-Our App does not knowingly collect any personal information from anyone, including children under 13. Since we do not collect data, we comply with the Children's Online Privacy Protection Act (COPPA) and similar regulations.
-
-## Changes to This Privacy Policy
-
-We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last updated" date.
-
-## Your Rights
-
-Since we do not collect any personal data, there is no personal data to access, modify, or delete. You can remove all locally stored app data at any time by uninstalling the app or clearing the app's data through your device settings.
-
-## Contact Us
-
-If you have any questions about this Privacy Policy, please contact us:
-
-- **GitHub:** [github.com/fictioncutshort/JustAPrivacyPolicy](https://github.com/fictioncutshort/JustAPrivacyPolicy)
-
----
-
-*This privacy policy is hosted at: https://fictioncutshort.github.io/JustAPrivacyPolicy/*
+    <hr>
+    <p><em>FictionCutShort © 2026</em></p>
+</body>
+</html>
